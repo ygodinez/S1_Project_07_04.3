@@ -16,7 +16,7 @@ function processInput() {
          document.getElementById(listItem).innerHTML = places[j];
       }
 
-}
+} //Set up by pasting the page and added a closing bracket.
 }
 
 // add backward compatible event listener to Submit button
